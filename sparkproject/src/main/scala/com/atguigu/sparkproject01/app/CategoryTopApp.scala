@@ -6,7 +6,7 @@ import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD
 
 /**
- * @author shkstart
+ * @author gogo
  * @create 2020-01-10 14:24
  */
 object CategoryTopApp {
