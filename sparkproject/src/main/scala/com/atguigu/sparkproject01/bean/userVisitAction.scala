@@ -22,7 +22,7 @@ package com.atguigu.sparkproject01.bean
  * @param city_id            城市 id
  */
 
-case class userVisitAction (
+case class userVisitAction (date:String,
     user_id: Long,
     session_id: String,
     page_id: Long,
